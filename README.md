@@ -18,28 +18,30 @@ For data storage, I have used React Native's AsyncStorage. AsyncStorage is an AP
 
 In my implementation, I use AsyncStorage to store the products added to the cart. Every time the user adds a product to the cart, I save it in AsyncStorage. When the user returns to the app, I retrieve the cart data stored and display it in the CartScreen.
 
-## Screenshots:
+
+# Screenshots:
 
 Here are some screenshots of the OpenFashion application:
 
-![HomePage](OpenFashion/assets/HomePage.png)
-
-![HomeScreen](OpenFashion/assets/HomeScreen.png)
-
-![Appliances](OpenFashion/assets/Appliances.png)
-
-![Dresses](OpenFashion/assets/Dresses.png)
-
-![Drawer](OpenFashion/assets/Drawer.png)
-
-![sideBar](OpenFashion/assets/sideBar.png)
-
-![Checkout](OpenFashion/assets/Checkout.png)
-
-![Cart1](OpenFashion/assets/cart1.png)
-
-![Cart2](OpenFashion/assets/cart2.png)
-
-![TotalAmount](OpenFashion/assets/TotalAmount.png)
-
-
+<table>
+  <tr>
+    <td><img src="OpenFashion/assets/HomePage.png" alt="HomePage" width="300"/></td>
+    <td><img src="OpenFashion/assets/HomeScreen.png" alt="HomeScreen" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="OpenFashion/assets/Appliances.png" alt="Appliances" width="300"/></td>
+    <td><img src="OpenFashion/assets/Dresses.png" alt="Dresses" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="OpenFashion/assets/Drawer.png" alt="Drawer" width="300"/></td>
+    <td><img src="OpenFashion/assets/sideBar.png" alt="sideBar" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="OpenFashion/assets/Checkout.png" alt="Checkout" width="300"/></td>
+    <td><img src="OpenFashion/assets/cart1.png" alt="Cart1" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="OpenFashion/assets/cart2.png" alt="Cart2" width="300"/></td>
+    <td><img src="OpenFashion/assets/TotalAmount.png" alt="TotalAmount" width="300"/></td>
+  </tr>
+</table>
