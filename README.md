@@ -23,6 +23,8 @@ In my implementation, I use AsyncStorage to store the products added to the cart
 
 Here are some screenshots of the OpenFashion application:
 
+# Screenshots:
+
 <table>
   <tr>
     <td><img src="OpenFashion/assets/HomePage.png" alt="HomePage" width="300"/></td>
@@ -43,5 +45,9 @@ Here are some screenshots of the OpenFashion application:
   <tr>
     <td><img src="OpenFashion/assets/cart2.png" alt="Cart2" width="300"/></td>
     <td><img src="OpenFashion/assets/TotalAmount.png" alt="TotalAmount" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="OpenFashion/assets/Details.png" alt="Description" width="300"/></td>
+    <td><img src="OpenFashion/assets/Description.png" alt="Details" width="300"/></td>
   </tr>
 </table>
